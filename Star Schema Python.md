@@ -1,5 +1,7 @@
 To implement a star schema in a data warehouse with staging and processing of fact and dimension tables, and eventually load the data into data marts using Pandas in Python for a retail sales customer dataset, follow these steps:
 
+https://chatgpt.com/share/66eac748-dddc-8010-b07d-f108ae5a0603
+
 1. Staging Fact and Dimension Tables:
 
 In a typical star schema, you'll have one fact table and multiple dimension tables. The fact table contains the main business metrics (sales transactions), while dimension tables hold descriptive information (e.g., customer, product, date).
